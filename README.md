@@ -1,10 +1,10 @@
 # Start app locally
 
+Visit localhost:9292
+
 ```
 rackup
 ```
-
-Visit localhost:9292
 
 # Run tests
 
@@ -13,6 +13,8 @@ rake
 ```
 
 # Deploy application on heroku
+
+Visit https://sheltered-hollows-1554.herokuapp.com
 
 ## Install CLI
 
