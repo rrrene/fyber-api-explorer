@@ -1,6 +1,6 @@
-require 'minitest/autorun'
+require 'spec_helper'
 
-class IntegrationSpec < MiniTest::Spec
+class IntegrationSpec < Spec
   it 'runs the test suite' do
     assert true
   end
