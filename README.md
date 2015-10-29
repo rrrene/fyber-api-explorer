@@ -1,6 +1,6 @@
 # Start app locally
 
-Visit localhost:9292
+Visit http://localhost:9292
 
 ```
 rackup
