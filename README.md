@@ -1,6 +1,6 @@
 # Fyber Api Explorer [![Build Status](https://travis-ci.org/JanOwiesniak/fyber-api-explorer.svg?branch=master)](https://travis-ci.org/JanOwiesniak/fyber-api-explorer)
 
-This web application help you to explore the [Fyber API](http://developer.fyber.com/content/current/ios/offer-wall/offer-api/) in a playful way.
+This web application helps you to explore the [Fyber API](http://developer.fyber.com/content/current/ios/offer-wall/offer-api/) in a playful way.
 
 ![Fyber API Explorer Mockups](https://raw.githubusercontent.com/JanOwiesniak/fyber-api-explorer/master/doc/mockup.png)
 
