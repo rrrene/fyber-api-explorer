@@ -2,6 +2,8 @@
 
 This web application help you to explore the [Fyber API](http://developer.fyber.com/content/current/ios/offer-wall/offer-api/) in a playful way.
 
+![Fyber API Explorer Mockups](https://raw.githubusercontent.com/JanOwiesniak/fyber-api-explorer/master/doc/mockup.png)
+
 ## Example application
 
 Visit: https://sheltered-hollows-1554.herokuapp.com
